@@ -1,6 +1,5 @@
 ChatterBot==1.0.0
 chatterbot-corpus==1.2.0
-click==8.0.1
 colorama==0.4.4
 importlib-metadata==4.6.0
 importlib-resources==5.2.0
@@ -11,7 +10,7 @@ packaging==20.9
 Pint==0.17
 pymongo==3.11.4
 pyparsing==2.4.7
-python-dateutil==2.7.5
+python-dateutil==2.8.2
 pytz==2021.1
 PyYAML==3.13
 regex==2021.4.4
