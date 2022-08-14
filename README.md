@@ -1,2 +1,2 @@
 # chatbot
-AI ChatBot for chronic conditions.
+Finetic AI ChatBot for answering health questions and specific concerns on chronic conditions.
