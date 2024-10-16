@@ -1,2 +1,2 @@
 # chatbot
-Finetic AI ChatBot created using Python for answering health questions and specific concerns on chronic conditions.
+Python AI ChatBot that responds to health queries and concerns about chronic conditions
